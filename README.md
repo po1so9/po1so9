@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Furqan Khan
-- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: furqankhan5403@gmail.com, @_furqankhan(instagram), https://www.linkedin.com/in/furqan-khan-8837ba240/
 
 <!---
